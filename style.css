@@ -1,0 +1,42 @@
+.Solida
+{
+     border-style: solid dotted dashed double;
+     border-width: 50px 50px 50px 50px;
+     border-color: blue red rgb(0, 255, 55) hotpink;
+}
+.dotted
+{
+     border-style: dotted;
+}
+.dashed
+{
+     border-style: dashed;
+}
+.double
+{
+     border-style: double;
+}
+.groove
+{
+     border-style: groove;
+}
+.ridge
+{
+     border-style: ridge;
+}
+.inset
+{
+     border-style: inset;
+}
+.outset
+{
+     border-style: outset;
+}
+.none
+{
+     border-style: none;
+}
+.hidden
+{
+     border-style: hidden;
+}
